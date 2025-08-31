@@ -18,7 +18,7 @@ JavaScript → Core logic and DOM manipulation
 Axios → To send API requests
 CrudCrud → Free temporary backend API
 
-📂 Project Structure
+**Project Structure**
 restaurant-app/
 │── index.html     # Main UI
 │── style.css      # Basic styles
