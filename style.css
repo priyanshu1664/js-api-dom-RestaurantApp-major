@@ -1,0 +1,94 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Page background */
+body {
+  background-color: #f9f9f9;
+  padding: 20px;
+  color: #333;
+}
+
+/* Heading */
+#heading {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#main-heading {
+  font-size: 28px;
+  font-weight: bold;
+  background-color: #ffcc80;
+  padding: 15px;
+  border-radius: 6px;
+  color: #333;
+}
+
+/* Form section */
+form {
+  background-color: #fff3e0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 300px;
+  margin: 0 auto 20px auto;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+form input,
+form select {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#btn_submit {
+  width: 100%;
+  padding: 6px;
+  margin-bottom: 12px;
+  background-color: #1affff;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 17px;
+}
+/* Table list section */
+#table {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 500px;
+  margin: 0 auto;
+}
+
+#table ul {
+  list-style: none;
+}
+#table h3 {
+  background-color: orange;
+  margin: 8px 0;
+  padding: 10px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+#table li {
+  background: #e0f7fa;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #00796b;
+}
